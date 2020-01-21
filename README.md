@@ -1,7 +1,13 @@
 # BahiKhaata
 Bahee-Khaata is a Web App for bookkeeping of your day-to-day expenses easily on your finger tips designed exclusive for Millennials. You can Add your daily Expenses, Incomes, Savings. Make Budgets and also analyze insights about how you spend your money.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Made Using ReactJs | Firebase | MaterialUI
+
+## ViewDemo : https://projectbk-518e2.firebaseapp.com/
+
+## Presentation : https://www.slideshare.net/slideshow/embed_code/key/1jdwM1GFn2rfzI
+
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
